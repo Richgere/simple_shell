@@ -2,6 +2,7 @@
 0x16. C - Simple Shell
 
 General
+
 Who designed and implemented the original Unix operating system
 Who wrote the first version of the UNIX shell
 Who invented the B programming language (the direct predecessor to the C programming language)
@@ -18,7 +19,9 @@ How to suspend the execution of a process until one of its children terminates
 What is EOF / “end-of-file”?
 
 Requirements
+
 General
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
